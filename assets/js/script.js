@@ -1,3 +1,6 @@
+// Импорт массива слов
+import { arrayData } from './wordlist.js';
+
 const input = document.getElementById('input');
 const resultDiv = document.getElementById('result');
 const countSpan = document.getElementById('count');
