@@ -7,13 +7,13 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/ваш-репозиторий/guess-the-build-solver.git
+    git clone https://github.com/Romozz/GTB-Solver
     ```
 
 2. Перейдите в директорию проекта:
 
     ```bash
-    cd guess-the-build-solver
+    cd GTB-Solver
     ```
 
 3. Откройте файл `index.html` в браузере для использования сайта.
